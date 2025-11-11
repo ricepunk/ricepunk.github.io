@@ -1,7 +1,7 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 title: Export
-description: Export
+description: Detailed documentation on the exported functions available in xdiscord, with examples in Lua and JavaScript for integration with other FiveM resources.
 ---
 
 # Exports

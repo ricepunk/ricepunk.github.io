@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 title: Installation
-description: Step-by-step guide to install and configure xdiscord for your FiveM server.
+description: A step-by-step guide to installing and configuring xdiscord on your FiveM server, from creating a Discord bot to deploying slash commands.
 ---
 
 After purchasing **xdiscord** from [Tebex](https://ricepunk.tebex.io):

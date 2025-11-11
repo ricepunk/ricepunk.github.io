@@ -1,7 +1,7 @@
 ---
-sidebar_position: 3
+sidebar_position: 4
 title: Development
-description: Development Guide
+description: A comprehensive guide for developers on setting up the xdiscord development environment, building the project, creating new commands, and extending its functionality with client-server callbacks.
 ---
 
 This guide provides instructions on how to set up, build, and extend the xdiscord bot with new commands and features.

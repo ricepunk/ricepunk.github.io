@@ -1,7 +1,7 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 title: Changelog
-description: Changelog
+description: A detailed log of all notable changes, additions, and bug fixes made to the xdiscord resource, organized by version.
 ---
 
 All notable changes to **xdiscord** will be documented in this file.  
